@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Классификатор ТХ</Name>
+		<Assembly>C:\Users\o.sidorin\source\repos\TechClassificator\TechClassificator\bin\Debug\TechClassificator.dll</Assembly>
+		<AddInId>CEAA8584-BA67-4BD0-9EF5-39CA0B6D84C1</AddInId>
+		<FullClassName>TechClassificator.Main</FullClassName>
+		<VendorId>М1 Проект</VendorId>
+		<VendorDescription>Отдел ИМ М1 Проект</VendorDescription>
+	</AddIn>
+</RevitAddIns>
